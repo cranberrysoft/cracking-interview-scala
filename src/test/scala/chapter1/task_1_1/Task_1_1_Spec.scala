@@ -2,7 +2,7 @@ package chapter1.task_1_1
 
 import org.scalatest.funsuite.AnyFunSuite
 
-class Task_1_1Spec extends AnyFunSuite {
+class Task_1_1_Spec extends AnyFunSuite {
 
   test("An empty String should be unique") {
 
